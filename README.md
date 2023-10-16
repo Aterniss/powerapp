@@ -1,6 +1,6 @@
-# Instroduction
+# Introduction to Power Apps:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in dolor sed erat euismod tempus sed at metus. Pellentesque at tempus diam, a semper ligula. Quisque vitae ultrices massa. Donec eget egestas enim, non facilisis massa. Vestibulum semper ornare purus id efficitur. Vivamus ut pharetra velit. Fusce nisi nulla, varius in tellus in, interdum ornare tortor. Aliquam odio neque, pretium pretium arcu quis, interdum efficitur purus. Donec finibus ex quis mauris rhoncus porttitor. Maecenas elit felis, ornare sit amet odio eu, tincidunt bibendum nisl. Cras eu nunc eget libero facilisis pellentesque nec quis ligula. Mauris vel diam augue. Aenean tempor ullamcorper nunc quis venenatis. Sed consectetur nisi est, eget commodo erat tincidunt ut. Suspendisse placerat nulla lacinia diam ultricies, in ultrices lectus dapibus. Mauris at lorem eu ex cursus interdum.
+In today's fast-paced digital era, businesses require agile solutions to adapt to changing requirements swiftly. Power Apps, part of Microsoft's Power Platform, is a revolutionary tool that empowers users to create custom applications with ease. Whether you're a business professional, developer, or IT expert, Power Apps provides a seamless environment for building intuitive applications, all without the complexities of traditional coding. Today you will create your own Power App.
 
 # Setup environment
 
