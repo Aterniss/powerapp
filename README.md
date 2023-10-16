@@ -45,7 +45,7 @@ After your credentials are confirmed successfully, click 'Get Started'.
 
 ![](/docs/assets/images/google_drive_create_new.jpg)
 
-- In the Google Sheets file, paste the content of the Customers.xlsx file. [download here](https://linkhere.com)
+- In the Google Sheets file, paste the content of the Customers.xlsx file. [download here](https://github.com/Aterniss/powerapp/blob/main/src/Customers.xlsx)
 - Provide a name for your spreadsheet, for example: ``Customers``.
 - For now, you can close the Customers sheets.
 
